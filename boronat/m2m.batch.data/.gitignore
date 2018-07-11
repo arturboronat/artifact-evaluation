@@ -1,0 +1,8 @@
+/.settings
+/.project
+/runBenchmarks.sh
+/last-results/
+/*.csv
+/experimental-results-incr/
+/runBenchmarksIncremental.sh
+/test.sh
